@@ -145,3 +145,13 @@ multYankeeDK x 6,638,467 ops/sec ±1.93% (85 runs sampled)
 multIronPike x 5,820,219 ops/sec ±1.18% (85 runs sampled)
 multnickolaos77 x 5,632,879 ops/sec ±1.93% (84 runs sampled)
 multa402539 x 5,311,919 ops/sec ±0.98% (84 runs sampled)
+
+##Using this repository
+
+Node version 6.5
+
+`npm install`
+
+`node benchmarking.js` to run benchmarks
+
+`mocha test.js` to run tests

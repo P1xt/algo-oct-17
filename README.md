@@ -76,60 +76,60 @@ Aside from the pure fun of practicing creating efficient algorithms, I don't hav
 ##The Results
 ###Correct solutions
 The following campers put forth solutions that correctly solved the challenge. 
-@JacksonBates
-@kevcomedia
-@Salasy
-@nickolaos77
-@Michealhall
-@Darklake
-@BenGitter
-@jv88899
-@simmco
-@JohnL3
-@Foresterr
-@Frustrated_Coder
-@computerluca
-@brew95
-@thanhacun
-@Velenir
-@slocodemonkey
-@IdyR17
-@Omegga
-@G-Squirrel
-@imtoobose
-@vector2016
-@IsaacAbrahamson
-@Gouldie
-@Tattomoosa
-@HyperSprite
-@tsaulon
-@Jasil1414
-@BLK1010
-@pkmn9060
-@nawazishali
-@Np463
-@YankeeDK
-@MistaTwist
-@a402539
-@TsvetkovT
-@ShanthiKarunakaran
-@ZackWard
-@joelpeyton
-@Lee182
-@Anourian
-@IronPike
-@ayiemba
-@SabryRagab
-@mpontus
-@silgarth
-@analistamarcio
-@bhattmayur26
-@Davidrfreeman
-@Ephopper
-@NostalgieCamarade
-@paulo101977
-@hit1st
-@79man
+@JacksonBates,
+@kevcomedia,
+@Salasy,
+@nickolaos77,
+@Michealhall,
+@Darklake,
+@BenGitter,
+@jv88899,
+@simmco,
+@JohnL3,
+@Foresterr,
+@Frustrated_Coder,
+@computerluca,
+@brew95,
+@thanhacun,
+@Velenir,
+@slocodemonkey,
+@IdyR17,
+@Omegga,
+@G-Squirrel,
+@imtoobose,
+@vector2016,
+@IsaacAbrahamson,
+@Gouldie,
+@Tattomoosa,
+@HyperSprite,
+@tsaulon,
+@Jasil1414,
+@BLK1010,
+@pkmn9060,
+@nawazishali,
+@Np463,
+@YankeeDK,
+@MistaTwist,
+@a402539,
+@TsvetkovT,
+@ShanthiKarunakaran,
+@ZackWard,
+@joelpeyton,
+@Lee182,
+@Anourian,
+@IronPike,
+@ayiemba,
+@SabryRagab,
+@mpontus,
+@silgarth,
+@analistamarcio,
+@bhattmayur26,
+@Davidrfreeman,
+@Ephopper,
+@NostalgieCamarade,
+@paulo101977,
+@hit1st,
+@79man,
 
 
 Note: In some cases, I modified the function name submitted in order to match `mult<campername>` for ease of testing. In one case, I copied the function off repl.it as it was linked from repl.it instead of included in a spoiler tag and in one case I added a return statement to an otherwise correct solution. This might seem "unfair", however, in the spirit of including everyone, I didn't want to exclude correct solutions for "picky" reasons, especially since the brief was rather lengthy and not all our campers speak English natively. 
@@ -139,12 +139,18 @@ In one case I removed a console.log() purely to remove that output from the benc
 
 
 ###The most efficient solutions were the following
-multsilgarth x 6,753,148 ops/sec ±0.54% (89 runs sampled)
-multForesterr x 6,675,344 ops/sec ±1.00% (86 runs sampled)
-multYankeeDK x 6,638,467 ops/sec ±1.93% (85 runs sampled)
-multIronPike x 5,820,219 ops/sec ±1.18% (85 runs sampled)
-multnickolaos77 x 5,632,879 ops/sec ±1.93% (84 runs sampled)
-multa402539 x 5,311,919 ops/sec ±0.98% (84 runs sampled)
+multsilgarth x 6,753,148 ops/sec ±0.54% (89 runs sampled)  
+
+multForesterr x 6,675,344 ops/sec ±1.00% (86 runs sampled)  
+
+multYankeeDK x 6,638,467 ops/sec ±1.93% (85 runs sampled)  
+
+multIronPike x 5,820,219 ops/sec ±1.18% (85 runs sampled) 
+
+multnickolaos77 x 5,632,879 ops/sec ±1.93% (84 runs sampled)  
+
+multa402539 x 5,311,919 ops/sec ±0.98% (84 runs sampled)  
+
 
 ##Using this repository
 

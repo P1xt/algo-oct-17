@@ -1,0 +1,454 @@
+
+
+  multJacksonBates
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multkevcomedia
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multkevcomedia
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multSalasy
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multnickolaos77
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multMichealhall
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multDarklake
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multBenGitter
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multjv88899
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multsimmco
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multJohnL3
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multForesterr
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multFrustrated_Coder
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multcomputerluca
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678 (38ms)
+
+  multbrew95
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multthanhacun
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multVelenir
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multslocodemonkey
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multIdyR17
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multOmegga
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000 (42ms)
+    ✓ should return 486804150 when passed 45678 (154ms)
+
+  multGSquirrel
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multimtoobose
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multvector2016
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multIsaacAbrahamson
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000 (211ms)
+    1) should return 486804150 when passed 45678
+
+  multGouldie
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multTattomoosa
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multHyperSprite
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multtsaulon
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multJasil1414
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multBLK1010
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multpkmn9060
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multnawazishali
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multNp463
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multYankeeDK
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multMistaTwist
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multa402539
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multTsvetkovT
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multShanthiKarunakaran
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multZackWard
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multjoelpeyton
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multLee182
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multAnourian
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multIronPike
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multayiemba
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multSabryRagab
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multmpontus
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multsilgarth
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multanalistamarcio
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multbhattmayur26
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multDavidrfreeman
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multEphopper
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multNostalgieCamarade
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multpaulo101977
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multhit1st
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  mult79man
+    ✓ should return 23 when passed 10
+    ✓ should return 78 when passed 20
+    ✓ should return 2318 when passed 100
+    ✓ should return 23331668 when passed 10000
+    ✓ should return 486804150 when passed 45678
+
+  multjoshuaalm
+    2) should return 23 when passed 10
+    3) should return 78 when passed 20
+    4) should return 2318 when passed 100
+    5) should return 23331668 when passed 10000
+    6) should return 486804150 when passed 45678
+
+
+  274 passing (5s)
+  6 failing
+
+  1) multIsaacAbrahamson should return 486804150 when passed 45678:
+     Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.
+  
+
+  2) multjoshuaalm should return 23 when passed 10:
+
+      AssertionError: expected 33 to equal 23
+      + expected - actual
+
+      -33
+      +23
+      
+      at Context.<anonymous> (test.js:941:40)
+
+  3) multjoshuaalm should return 78 when passed 20:
+
+      AssertionError: expected 98 to equal 78
+      + expected - actual
+
+      -98
+      +78
+      
+      at Context.<anonymous> (test.js:944:40)
+
+  4) multjoshuaalm should return 2318 when passed 100:
+
+      AssertionError: expected 2418 to equal 2318
+      + expected - actual
+
+      -2418
+      +2318
+      
+      at Context.<anonymous> (test.js:947:41)
+
+  5) multjoshuaalm should return 23331668 when passed 10000:
+
+      AssertionError: expected 23341668 to equal 23331668
+      + expected - actual
+
+      -23341668
+      +23331668
+      
+      at Context.<anonymous> (test.js:950:43)
+
+  6) multjoshuaalm should return 486804150 when passed 45678:
+
+      AssertionError: expected 486849828 to equal 486804150
+      + expected - actual
+
+      -486849828
+      +486804150
+      
+      at Context.<anonymous> (test.js:953:43)
+
+
+

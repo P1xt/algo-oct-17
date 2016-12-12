@@ -158,6 +158,6 @@ Node version 6.5
 
 `npm install`
 
-`node benchmarking.js` to run benchmarks
+`node benchmark.js` to run benchmarks
 
 `mocha test.js` to run tests
